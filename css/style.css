@@ -34,6 +34,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
 #pic2 {
 	background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/2.png?raw=true");
 	min-height: 150vh;
@@ -100,7 +101,7 @@
 
 .buffer{
     height: 100vh;
-    background: linear-gradient(to bottom, black, grey);
+    background: linear-gradient(to bottom, black, grey, black);
     margin: 0;
     padding: 0;
 }
