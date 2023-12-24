@@ -164,6 +164,22 @@
     font-size: 18px;
 }
 
+#pic6container{
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/hug.png?raw=true");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+#path1{
+    width: 80%;
+    text-align: left;
+    line-height: 2.0;
+    margin-left: 1%;
+    margin-right:1%;
+    font-size: 18px;
+}
 
 #讓校園成為總是有光的空間{
     background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/light.png?raw=true");
