@@ -133,6 +133,38 @@
     font-size: 18px;
 }
 
+#break1{
+    width: 55%;
+    text-align: left;
+    line-height: 2.0;
+    margin: auto;
+    font-size: 18px;
+}
+
+#break2{
+    width: 55%;
+    text-align: left;
+    line-height: 2.0;
+    margin: auto;
+    font-size: 18px;
+}
+
+#chart3container{
+    width: 55%;
+    margin-top: 0;
+    padding-top: 0;
+    margin-left: 27%;
+}
+
+#break3{
+    width: 55%;
+    text-align: left;
+    line-height: 2.0;
+    margin: auto;
+    font-size: 18px;
+}
+
+
 #讓校園成為總是有光的空間{
     background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/light.png?raw=true");
     background-attachment: fixed;
