@@ -26,33 +26,48 @@
     left: 0;
   }
 
-#first {
-	background-image: url("https://p4css.github.io/webScroll/assets/konoha.jpg");
-	min-height: 2400px;
+#pic1 {
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/1.png?raw=true");
+	min-height: 150vh;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	filter: grayscale(100%);
 }
-#second {
-	background-image: url("https://p4css.github.io/webScroll/assets/konoha.jpg");
-	min-height: 1200px;
+#pic2 {
+	background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/2.png?raw=true");
+	min-height: 150vh;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	filter: grayscale(50%);
 }
 
-#third {
-	background-image: url("https://p4css.github.io/webScroll/assets/konoha.jpg");
-	min-height: 1200px;
+#pic3 {
+	background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/3.png?raw=true");
+	min-height: 150vh;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	filter: brightness(150%)
+}
+
+#pic4 {
+	background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/4.png?raw=true");
+	min-height: 150vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#pic5 {
+	background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/5.png?raw=true");
+	min-height: 150vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #video2container {
