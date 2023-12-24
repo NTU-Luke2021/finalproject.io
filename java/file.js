@@ -68,4 +68,30 @@ $(function() {
      }
    });
  });
-  
+
+function toggleDropdown() {
+  var dropdownContent = document.getElementById("drop1");
+  if (dropdownContent.style.display === "block") {
+    dropdownContent.style.display = "none";
+  } else {
+    dropdownContent.style.display = "block";
+  }
+}
+
+function toggle2Dropdown() {
+  var dropdownContent2 = document.getElementById("drop2");
+  if (dropdownContent2.style.display === "block") {
+    dropdownContent2.style.display = "none";
+  } else {
+    dropdownContent2.style.display = "block";
+  }
+}
+
+function toggle3Dropdown() {
+  var dropdownContent3 = document.getElementById("drop3");
+  if (dropdownContent3.style.display === "block") {
+    dropdownContent3.style.display = "none";
+  } else {
+    dropdownContent3.style.display = "block";
+  }
+}
