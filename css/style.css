@@ -107,7 +107,7 @@
 }
 
 
-#article1{
+#data1{
     width: 80%;
     text-align: left;
     line-height: 2.0;
@@ -116,7 +116,7 @@
     font-size: 18px;
 }
 
-#article2{
+#data2{
     width: 80%;
     text-align: left;
     line-height: 2.0;
@@ -125,7 +125,7 @@
     font-size: 18px;
 }
 
-#article3{
+#data3{
     width: 55%;
     text-align: left;
     line-height: 2.0;
@@ -133,3 +133,20 @@
     font-size: 18px;
 }
 
+#讓校園成為總是有光的空間{
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/light.png?raw=true");
+    background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#light1{
+    width: 35%;
+    overflow-wrap: break-word;
+    text-align: left;
+    line-height: 2.0;
+    margin-left: 55%;
+    font-size: 18px;
+    color: aliceblue;
+}
