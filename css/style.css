@@ -1,21 +1,75 @@
+html{
+    overflow-y: scroll;
+}
+
+:root{
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+:root body{
+    position: absolute;
+}
+
+#video1container{
+    height: 800vh;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#video1 {
+    object-fit: fill;
+    width: 100vw;
+    height: 100vh;
+    top:0;
+    left: 0;
+  }
+
+  #video2container{
+    height: 800vh;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#video2 {
+    object-fit: fill;
+    width: 100vw;
+    height: 100vh;
+    top:0;
+    left: 0;
+}
+
+  .buffer{
+    height: 100vh;
+    background: linear-gradient(to bottom, black, grey);
+    margin: 0;
+    padding: 0;
+}
+
 #article1{
+    width: 80%;
     text-align: left;
-    line-height: 1.5;
-    margin: 10% auto;
+    line-height: 2.0;
+    margin-left: 1%;
+    margin-right:1%;
     font-size: 18px;
 }
 
 #article2{
+    width: 80%;
     text-align: left;
-    line-height: 1.5;
-    margin: 10% auto;
+    line-height: 2.0;
+    margin-left: 1%;
+    margin-right:1%;
     font-size: 18px;
 }
 
 #article3{
-    width: 60%;
+    width: 55%;
     text-align: left;
-    line-height: 1.5;
+    line-height: 2.0;
     margin: 10% auto;
     font-size: 18px;
 }
