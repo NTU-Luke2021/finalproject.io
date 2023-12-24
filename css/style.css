@@ -26,7 +26,37 @@
     left: 0;
   }
 
+#first {
+	background-image: url("https://p4css.github.io/webScroll/assets/konoha.jpg");
+	min-height: 2400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: grayscale(100%);
+}
+#second {
+	background-image: url("https://p4css.github.io/webScroll/assets/konoha.jpg");
+	min-height: 1200px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: grayscale(50%);
+}
+
+#third {
+	background-image: url("https://p4css.github.io/webScroll/assets/konoha.jpg");
+	min-height: 1200px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(150%)
+}
+
 #video2container {
+    display: block;
     overflow: hidden;
     width: 100%;
     height: 100%;

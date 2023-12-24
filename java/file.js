@@ -33,7 +33,18 @@ $(function() {
     });
   });
 
+document.addEventListener("DOMContentLoaded", function() {
+  var videoRita = document.getElementById("video2");
   
+  videoRita.addEventListener("ended", function() {
+    document.body.style.overflowY = "hidden";
+  });
+  videoRita.addEventListener("ended", function() {
+        // Allow scrolling once the video ends
+    document.body.style.overflowY = "auto";
+  });
+});
+
  
 /* $(function() {
   const videoElement = $('#video2').get(0);
