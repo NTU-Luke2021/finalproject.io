@@ -1,8 +1,22 @@
 #article1{
-    overflow-wrap: break-all;
-    text-align: center;
+    text-align: left;
+    line-height: 1.5;
+    margin: 10% auto;
+    font-size: 18px;
 }
 
 #article2{
-    text-align: center;
+    text-align: left;
+    line-height: 1.5;
+    margin: 10% auto;
+    font-size: 18px;
 }
+
+#article3{
+    width: 60%;
+    text-align: left;
+    line-height: 1.5;
+    margin: 10% auto;
+    font-size: 18px;
+}
+
