@@ -33,18 +33,8 @@ $(function() {
     });
   });
 
-  var video = document.getElementById('video2');
-
-  // Disable scrolling when the video is playing
-  video.addEventListener('playing', function () {
-    document.body.style.overflow = 'hidden';
-  });
-
-  // Enable scrolling when the video ends
-  video.addEventListener('ended', function () {
-    document.body.style.overflow = 'auto';
-  });
-
+  
+ 
 /* $(function() {
   const videoElement = $('#video2').get(0);
   
