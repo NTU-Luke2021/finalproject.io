@@ -34,7 +34,7 @@ $(function() {
   });
 
  
-/* $(function() {
+$(function() {
   const videoElement = $('#video2').get(0);
   
   if (!videoElement) {
@@ -67,5 +67,5 @@ $(function() {
        console.warn("Video duration is not available");
      }
    });
- }); */
+ });
   
