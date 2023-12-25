@@ -204,6 +204,10 @@
     font-size: 18px;
 }
 
+#讓心輔之路更好{
+    height: 100vh;
+}
+
 .dropdown {
     position: relative;
     text-align: center;
@@ -212,8 +216,8 @@
 
   /* Style for the dropdown button */
 .dropdown-btn {
-    width: 20vw;
-    height: 9vh;
+    width: 100px;
+    height: 50px;
     border: none;
     cursor: pointer;
     background-color: black
