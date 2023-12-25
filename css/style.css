@@ -148,6 +148,24 @@
     font-size: 18px;
 }
 
+#校園心輔系統的未竟之地2{
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/light.png?raw=true");
+    background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#land{
+    width: 35%;
+    overflow-wrap: break-word;
+    text-align: left;
+    line-height: 2.0;
+    margin-left: 55%;
+    font-size: 18px;
+    color: aliceblue;
+}
+
 #break1{
     width: 55%;
     text-align: left;
@@ -165,6 +183,13 @@
 }
 
 #chart3container{
+    width: 80%;
+    margin-top: 0;
+    padding-top: 0;
+    margin-left: 10%;
+}
+
+#chart4container{
     width: 55%;
     margin-top: 0;
     padding-top: 0;
@@ -192,7 +217,6 @@
     border: none;
     cursor: pointer;
 }
-
   /* Style for the dropdown content */
 .dropdown-content {
     display: none;
@@ -234,7 +258,7 @@
 	background-size: cover;
 }
 
-#light1{
+#light{
     width: 35%;
     overflow-wrap: break-word;
     text-align: left;
