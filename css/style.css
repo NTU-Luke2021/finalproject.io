@@ -211,8 +211,8 @@
 
   /* Style for the dropdown button */
 .dropdown-btn {
-    background: linear-gradient(to top, black, white);
-    color: white;
+    width: 32vw;
+    height: 18vh;
     padding: 10px;
     border: none;
     cursor: pointer;
@@ -224,6 +224,24 @@
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
     z-index: 1;
     text-align: left;
+}
+
+#btn1{
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/lesson.png?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#btn2{
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/letter.png?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#btn3{
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/advocate.png?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #path1{
