@@ -149,7 +149,7 @@
 }
 
 #校園心輔系統的未竟之地2{
-    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/light.png?raw=true");
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/fretting.png?raw=true");
     background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -157,11 +157,11 @@
 }
 
 #land{
-    width: 35%;
+    width: 40%;
     overflow-wrap: break-word;
     text-align: left;
     line-height: 2.0;
-    margin-left: 55%;
+    margin-left: 12%;
     font-size: 18px;
     color: aliceblue;
 }
