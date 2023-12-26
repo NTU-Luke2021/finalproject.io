@@ -214,7 +214,7 @@
     line-height: 2.0;
     margin-left: 12%;
     font-size: 18px;
-    color: ;
+    color: oldlace;
 }
 
 #break1{
@@ -255,7 +255,14 @@
     font-size: 18px;
 }
 
+#video5container{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
 #shine{
+  object-fit: fill;
   right: 0;
   bottom: 0;
   width: 100vw; 
