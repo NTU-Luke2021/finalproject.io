@@ -1,8 +1,7 @@
 /* html{
     overflow-y: scroll;
 } */
-
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@600;700;800;900&display=swap');
 
 :root{
     /* overflow-y: auto; */
@@ -11,6 +10,10 @@
 
 :root body{
     position: absolute;
+}
+
+body{
+    font-family: 'Noto Sans', sans-serif;
 }
 
 #video1container{
