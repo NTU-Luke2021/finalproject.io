@@ -43,7 +43,7 @@
 }
 
 .buffer2{
-    height: 100vh;
+    height: 120vh;
     background: linear-gradient(to bottom, black, rgb(107, 105, 105), white );
     margin: 0;
     padding: 0;
@@ -114,19 +114,6 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-
-/* #video2container {
-    display: block;
-    overflow: hidden;
-    width: 100%;
-    height: 100%;
-}
-
-#video2 {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-} */
 
 #video2container{
     height: 800vh;

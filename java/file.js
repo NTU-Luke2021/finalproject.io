@@ -139,7 +139,7 @@ $(function() {
    });
  });
 
-function toggleDropdown() {
+/* function toggleDropdown() {
   var dropdownContent = document.getElementById("drop1");
   if (dropdownContent.style.display === "block") {
     dropdownContent.style.display = "none";
@@ -164,4 +164,4 @@ function toggle3Dropdown() {
   } else {
     dropdownContent3.style.display = "block";
   }
-}
+} */
