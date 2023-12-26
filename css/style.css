@@ -204,7 +204,7 @@
     line-height: 2.0;
     margin: auto;
     font-size: 18px;
-    color: aliceblue;
+    color: oldlace;
 }
 
 #land2{
@@ -214,7 +214,7 @@
     line-height: 2.0;
     margin-left: 12%;
     font-size: 18px;
-    color: aliceblue;
+    color: ;
 }
 
 #break1{
@@ -255,19 +255,21 @@
     font-size: 18px;
 }
 
-#讓心輔之路更好{
-    height: 100vh;
-    background-color: white;
+#shine{
+  right: 0;
+  bottom: 0;
+  width: 100vw; 
+  height: 100vh;
 }
 
-.dropdown {
+/* .dropdown {
     position: relative;
     text-align: center;
     background-color: white;
-}
+} */
 
   /* Style for the dropdown button */
-.dropdown-btn1 {
+/* .dropdown-btn1 {
     width: 300px;
     height: 100px;
     border: none;
@@ -300,13 +302,13 @@
 }
 
   /* Style for the dropdown content */
-.dropdown-content {
+/* .dropdown-content {
     display: none;
     background-color: #f9f9f9;
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
     z-index: 1;
     text-align: left;
-}
+} */ 
 
 /* #btn1{
     background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/lesson.png?raw=true");
