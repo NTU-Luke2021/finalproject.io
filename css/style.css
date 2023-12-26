@@ -343,3 +343,12 @@ body{
     font-size: 18px;
     color: whitesmoke;
 }
+
+#jd{
+    text-align: center;
+    background-attachment: fixed;
+    background-color: rgb(221, 221, 145);
+    filter: opacity(50%);
+    height: 100vh;
+
+}
