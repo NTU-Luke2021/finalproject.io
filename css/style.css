@@ -2,6 +2,8 @@
     overflow-y: scroll;
 } */
 
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+
 :root{
     /* overflow-y: auto; */
     overflow-x: hidden;
@@ -258,7 +260,7 @@
 
   /* Style for the dropdown button */
 .dropdown-btn1 {
-    width: 400px;
+    width: 300px;
     height: 100px;
     border: none;
     cursor: pointer;
@@ -285,7 +287,7 @@
     cursor: pointer;
     background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/advocate.png?raw=true");
     background-position: center;
-    background-size: cover;
+    object-fit: fill;
     margin-top: 7%;
 }
 
