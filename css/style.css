@@ -302,30 +302,6 @@ body{
     color: whitesmoke;
 }
 
-/* #path1{
-    width: 55%;
-    text-align: left;
-    line-height: 2.0;
-    margin: auto;
-    font-size: 18px;
-}
-
-#path2{
-    width: 55%;
-    text-align: left;
-    line-height: 2.0;
-    margin: auto;
-    font-size: 18px;
-}
-
-#path3{
-    width: 55%;
-    text-align: left;
-    line-height: 2.0;
-    margin: auto;
-    font-size: 18px;
-} */
-
 #讓校園成為總是有光的空間{
     background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/light.png?raw=true");
     background-attachment: fixed;
@@ -346,9 +322,41 @@ body{
 
 #jd{
     text-align: center;
+    background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/corner.png?raw=true");
     background-attachment: fixed;
-    background-color: rgb(221, 221, 145);
-    filter: opacity(50%);
-    height: 100vh;
-
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: opacity(85%);
+    height: 59vh;
+    width: 100vw;
+    padding-bottom: 5%;
+    color: whitesmoke;
 }
+
+#thanking{
+    padding: 6%;
+}
+
+#writer{
+    margin-right: 3%;
+}
+
+a:link {
+    color:whitesmoke;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(255, 255, 204);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  a:active {
+    color: whitesmoke;
+  }
+
