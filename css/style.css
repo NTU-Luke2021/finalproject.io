@@ -37,14 +37,14 @@
 
 .buffer1{
     height: 100vh;
-    background: linear-gradient(to bottom, white, rgb(139, 139, 139), black );
+    background: linear-gradient(to bottom, whitesmoke, rgb(139, 139, 139), black );
     margin: 0;
     padding: 0;
 }
 
 .buffer2{
     height: 120vh;
-    background: linear-gradient(to bottom, black, rgb(107, 105, 105), white );
+    background: linear-gradient(to bottom, black, rgb(107, 105, 105), whitesmoke );
     margin: 0;
     padding: 0;
 }
@@ -160,6 +160,10 @@
     margin-left: 0;
 }
 
+#人人都被溫柔地接住了嗎{
+    background-color: whitesmoke;
+}
+
 #data1{
     text-align: left;
     line-height: 2.0;
@@ -204,7 +208,7 @@
     line-height: 2.0;
     margin: auto;
     font-size: 18px;
-    color: oldlace;
+    color: whitesmoke;
 }
 
 #land2{
@@ -214,7 +218,11 @@
     line-height: 2.0;
     margin-left: 12%;
     font-size: 18px;
-    color: oldlace;
+    color: whitesmoke;
+}
+
+#如何讓悲傷有處安放{
+    background-color: whitesmoke;
 }
 
 #break1{
@@ -278,7 +286,7 @@
     text-align: left;
     line-height: 2.0;
     font-size: 18px;
-    color: oldlace;
+    color: whitesmoke;
     background-color: black;
 }
 
@@ -289,7 +297,7 @@
     line-height: 2.0;
     margin-left: 16%;
     font-size: 18px;
-    color: oldlace;
+    color: whitesmoke;
 }
 
 /* #path1{
@@ -331,5 +339,5 @@
     line-height: 2.0;
     margin-left: 50%;
     font-size: 18px;
-    color: oldlace;
+    color: whitesmoke;
 }
