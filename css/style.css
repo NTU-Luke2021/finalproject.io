@@ -255,6 +255,10 @@
     font-size: 18px;
 }
 
+#讓心輔之路更好{
+    background-color: black;
+}
+
 #video5container{
     height: 100vh;
     margin: 0;
@@ -264,38 +268,26 @@
 
 #shine{
     object-fit: fill;
-    width: 100vw;
     height: 100vh;
     top: 0;
-    margin-left: 0;
+    margin-right: 10%;
 }
 
 #path1{
-    width: 40%;
     overflow-wrap: break-word;
     text-align: left;
     line-height: 2.0;
-    margin-left: 50%;
     font-size: 18px;
     color: oldlace;
+    background-color: black;
 }
 
 #path2{
-    width: 40%;
+    width: 80%;
     overflow-wrap: break-word;
     text-align: left;
     line-height: 2.0;
-    margin-left: 50%;
-    font-size: 18px;
-    color: oldlace;
-}
-
-#path3{
-    width: 40%;
-    overflow-wrap: break-word;
-    text-align: left;
-    line-height: 2.0;
-    margin-left: 50%;
+    margin-left: 16%;
     font-size: 18px;
     color: oldlace;
 }
