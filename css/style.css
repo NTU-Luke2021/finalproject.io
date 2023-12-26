@@ -63,6 +63,13 @@
     padding: 0;
 }
 
+.bufferend{
+    height: 60vh;
+    background-color:black;
+    margin: 0;
+    padding: 0;
+}
+
 #pic1 {
     background-image: url("https://github.com/NTU-Luke2021/finalproject.io/blob/main/img/1.png?raw=true");
 	min-height: 150vh;
@@ -135,6 +142,13 @@
     background-color: black;
 }
 
+#video4container{
+    height: 800vh;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
 #video2 {
     object-fit: fill;
     width: 100vw;
@@ -151,6 +165,13 @@
     margin-left: 0;
 }
 
+#video4 {
+    object-fit: fill;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    margin-left: 0;
+}
 
 #data1{
     text-align: left;
