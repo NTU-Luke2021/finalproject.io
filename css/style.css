@@ -14,7 +14,7 @@
 }
 
 #video1container{
-    height: 800vh;
+    height: 700vh;
     margin: 0;
     padding: 0;
     background-color: black;
@@ -129,7 +129,7 @@
 }
 
 #video3container{
-    height: 1000vh;
+    height: 800vh;
     margin: 0;
     padding: 0;
     background-color: black;
@@ -354,11 +354,11 @@
 }
 
 #light{
-    width: 35%;
+    width: 40%;
     overflow-wrap: break-word;
     text-align: left;
     line-height: 2.0;
-    margin-left: 55%;
+    margin-left: 50%;
     font-size: 18px;
     color: aliceblue;
 }
