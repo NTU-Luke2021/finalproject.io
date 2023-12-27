@@ -68,6 +68,14 @@ body{
     padding: 0;
 }
 
+.buffer5{
+    height: 125vh;
+    background: linear-gradient(to bottom, whitesmoke, rgb(139, 139, 139), black );
+    margin: 0;
+    padding: 0;
+}
+
+
 .bufferend{
     height: 60vh;
     background-color:black;
