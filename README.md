@@ -1,7 +1,6 @@
 # What are the possible futures for Mental Health Support Systems within Higher Education?
 A responsive and interactive website designed to raise awareness about mental health issues among university students.<br>
-Built using HTML, CSS, and JavaScript, this project presents research findings, resources, and interactive storytelling<br> 
-to raise awareness of mental well-being within Taiwan University campuses.<br><br>
+Built using HTML, CSS, and JavaScript, this project presents research findings, resources, and interactive storytelling<br> to raise awareness of mental well-being within Taiwan University campuses.<br><br>
 <b>Note</b>: Content is in Chinese; project demonstrates front-end development and interactive data visualization<br>
 For English readers please refer to the English Summary Section Below
 ## 📂 Project Structure
